@@ -63,8 +63,8 @@
 .wpsHeadingWrap {
   text-align: center;
   padding-top: 50px;
-  padding-left: 15px;
   padding-right: 15px;
+  padding-left: 15px;
 }
 .wpsHeadingWrap h2 {
   color: #202020;
@@ -142,5 +142,3 @@ form.wpsMsf textarea::placeholder {
       padding: 20px 5px;
   }
 }
-
-/*# sourceMappingURL=style-index.css.map*/
